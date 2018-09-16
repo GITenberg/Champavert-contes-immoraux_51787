@@ -1,0 +1,39 @@
+_repo: Champavert-contes-immoraux_51787
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Aubry, Adrien
+    gutenberg_agent_id: '46555'
+    url: http://www.gutenberg.org/2009/agents/46555
+creator:
+  author:
+    agent_name: Borel, Pétrus
+    aliases:
+    - Borel, Petrus
+    - D'Hauterive, Pierre Joseph Borel
+    birthdate: 1809
+    deathdate: 1859
+    gutenberg_agent_id: '39615'
+    url: http://www.gutenberg.org/2009/agents/39615
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2016-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51787'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Short stories, French'
+- !lcsh 'French fiction -- 19th century'
+- !lcc 'PQ'
+- !lcsh 'Gothic fiction'
+- GITenberg
+tableOfContents: Monsieur de l'argentière, l'accusateur -- Jaquez Barraou, le charpentier
+  -- Don Andréa Vésalius, l'anatomiste -- Three fingered Jack, l'obi -- Dina la belle
+  juive -- Passereau, l'écolier -- Champavert, le lycanthrope.
+title: 'Champavert: contes immoraux'
+url: http://www.gutenberg.org/ebooks/51787
